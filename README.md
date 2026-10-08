@@ -45,7 +45,7 @@ The synthesized RTL netlist maps the Verilog logic into physical Xilinx FPGA pri
 
 ##  Simulation & Waveform Analysis
 
-The design was verified using behavioral simulation in Vivado with a 50 MHz clock ($T = 20\text{ ns}$).
+The design was verified using behavioral simulation in Vivado with a 50 MHz clock  (T = 20ns).
 
 <img width="956" height="203" alt="waveform" src="https://github.com/user-attachments/assets/77a3c743-feaa-45b4-97b2-0d1b201c8a3f" />
 
